@@ -1,0 +1,5 @@
+f = open('myfile3.txt', 'w')
+f.write('First line\n')
+f.write('Second line')
+f.write('third line?')
+f.close()
