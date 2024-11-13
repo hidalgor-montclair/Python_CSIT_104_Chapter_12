@@ -5,6 +5,7 @@ f.close()
 total = 0
 for ln in lines:
     total += int(ln)
+    print(ln)
 
 avg = total / len(lines)
 print(f'Average value: {avg}')

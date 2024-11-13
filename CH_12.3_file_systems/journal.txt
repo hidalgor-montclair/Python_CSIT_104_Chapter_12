@@ -1,0 +1,13 @@
+Dear Journal,
+
+Today was a really exciting day! I learned how to read files using Python, which opens up so many possibilities for working with data.
+
+Here are a few things I learned:
+- How to open a file using the `open()` function.
+- How to read all the contents at once with `.read()`.
+- How to read line-by-line with `.readlines()`.
+
+I'm looking forward to practicing more with Python and creating more interesting projects!
+
+Sincerely,
+Your Coding Student

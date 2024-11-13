@@ -1,7 +1,7 @@
 import sys
 if len(sys.argv) != 2:
     print("Oh no, you typed the argument wrong!")
-    print("Usage: python my_script.py <filename>")
+    print("Usage: python ex_1_command_file.py <filename>")
     # print(sys.argv)
     sys.exit(1)
 
